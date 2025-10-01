@@ -1,4 +1,5 @@
 Image Gallery & Slideshow Project
+
 A responsive and interactive web application featuring an image gallery with thumbnail navigation and an automatic slideshow with controls.
 
 📋 Project Overview
